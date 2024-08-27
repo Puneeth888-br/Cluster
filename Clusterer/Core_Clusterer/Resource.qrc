@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/Resources">
+        <file>Images/Beam.png</file>
+        <file>Images/car-door.png</file>
+        <file>Images/car-door1.png</file>
+        <file>Images/Carr.jpeg</file>
+        <file>Images/Carr.png</file>
+        <file>Images/car-seat.png</file>
+        <file>Images/circle.png</file>
+        <file>Images/Dip.png</file>
+        <file>Images/DoorWarning.png</file>
+        <file>Images/Dot.png</file>
+        <file>Images/fuel.png</file>
+        <file>Images/Green.jpeg</file>
+        <file>Images/Green1.png</file>
+        <file>Images/Green11.png</file>
+        <file>Images/Group 3.png</file>
+        <file>Images/Left.png</file>
+        <file>Images/Line.png</file>
+        <file>Images/Needle_C.jpg</file>
+        <file>Images/Needle_Center.png</file>
+        <file>Images/Needle2.png</file>
+        <file>Images/NeedleC.jpg</file>
+        <file>Images/NewRPM.jpg</file>
+        <file>Images/passenger.png</file>
+        <file>Images/PowerOff.png</file>
+        <file>Images/PowerOn.png</file>
+        <file>Images/Red.jpeg</file>
+        <file>Images/Red1.png</file>
+        <file>Images/Red11.png</file>
+        <file>Images/Right.png</file>
+        <file>Images/RPM.jpeg</file>
+        <file>Images/RPM.png</file>
+        <file>Images/RPM1.jpeg</file>
+        <file>Images/RPM2.png</file>
+        <file>Images/RPMNEW.jpg</file>
+        <file>Images/Seat_View1.png</file>
+        <file>Images/SeatBelt.png</file>
+        <file>Images/SeatBelt_1.png</file>
+        <file>Images/SeatBelt1.png</file>
+        <file>Images/shape.png</file>
+        <file>Images/Speed.jpeg</file>
+        <file>Images/Speedometer.jpeg</file>
+        <file>Images/SpeedometerOne.png</file>
+        <file>Images/Speeds.png</file>
+    </qresource>
+</RCC>
